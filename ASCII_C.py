@@ -14,7 +14,7 @@ CHC0 = input("")
 
 
 
-#hash i want to validate 18f5384d58bcb1bba0bcd9e6a6781d1a6ac2cc280c330ecbab6cb7931b721552
+#hash example 18f5384d58bcb1bba0bcd9e6a6781d1a6ac2cc280c330ecbab6cb7931b721552
 
 if CHC0 == "crc":
     print("Your hash u want encode")
