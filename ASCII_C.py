@@ -5,7 +5,7 @@ LSC0 = ["A", "E", "I", "O", "U", "B", "C", "D", "F", "G", "H", "J", "K", "L", "M
 
 
 
-#for now only ASCII cracker works with the One words
+#for now only ASCII cracker works with the one word at a time.
 
 
 print(" what u want to to do crack(crc) validate hash(vah) ")
